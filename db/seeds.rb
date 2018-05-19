@@ -9,3 +9,8 @@ Product.create!(title: "Seven Mobile Apps in Seven Weeks",
       </p>},
       image_url: "7apps.jpg",
       price: 26.00)
+
+Product.create!(title: "Rails, Angular, Postgres, and Bootstrap",
+  description: "Powerful, Effective, and Efficient full-stack web development etc etc etc",
+  image_url: "rapb.jpg",
+  price: 32.00)
